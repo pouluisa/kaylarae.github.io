@@ -35,9 +35,10 @@ footer a {
   margin: 0 auto;
   position: center;
 }
-.profile-photo {
+.profilep {
   width: 300px;
   margin: 20px;
+  float: right;
 }
 
 .icon {
@@ -59,6 +60,7 @@ footer a {
   font: 12px helvetica;
   color: white;
   width: 500px;
+  float: right;
 }
 #contact p {
   color: white;
