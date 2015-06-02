@@ -63,4 +63,7 @@ footer a {
 #contact p {
   color: white;
 }
-
+header {
+  width: 100%;
+  overflow: hidden;
+}
