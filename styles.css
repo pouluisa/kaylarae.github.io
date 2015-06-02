@@ -63,3 +63,6 @@ footer a {
 #contact p {
   color: white;
 }
+.logo {
+  background-attachment: fixed;
+}
