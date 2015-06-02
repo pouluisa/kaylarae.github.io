@@ -56,7 +56,11 @@ footer a {
   margin: 0 auto;
   display: block;
 }
-#about p {
+.about {
+  width: 900px;
+  margin: 0 auto;
+}
+.about-copy {
   font: 12px helvetica;
   color: white;
   width: 500px;
